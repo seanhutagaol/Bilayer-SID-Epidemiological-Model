@@ -14,8 +14,8 @@ The model is implemented using a modular MATLAB framework to facilitate reproduc
 - `Simulation_Results.pdf` — Compiled simulation figures, including model trajectories, emergent limit cycles, and solvency-related results.
 - Supporting `.m` files — Model-specific ODE functions, statistical objective functions, and plotting utilities, including `ode_macro.m`, `ode_cohort.m`, and `obj_nsse.m`.
 
-## Copyright and Usage
+## ⚠️Copyright and Usage
 
-© 2026 Sean Felix Fefri Hutagaol. All Rights Reserved.
-
-This repository contains code associated with a manuscript currently under academic review. The source code is made available for inspection and evaluation only. No permission is granted to copy, modify, redistribute, or use the code for other purposes without prior written permission from the author.
+> **© 2026 Sean Felix Fefri Hutagaol. All Rights Reserved.**
+> 
+> This repository contains code associated with a manuscript currently under academic review. The source code is made available for inspection and evaluation only. No permission is granted to copy, modify, redistribute, or use the code for other purposes without prior written permission from the author.
